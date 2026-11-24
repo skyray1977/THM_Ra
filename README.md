@@ -1,9 +1,8 @@
-# TryHackMe Ra Writeup
+# TryHackMe Jurassic Park Writeup
 
 Hard difficult
 
-Ra Room: https://tryhackme.com/room/ra
-
+Jurassic Park Room: https://tryhackme.com/room/jurassicpark
 Happy hacking! :-P skyray IT
 
 More? https://tryhackme.com
